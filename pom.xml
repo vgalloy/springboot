@@ -48,7 +48,7 @@
             <version>${spring-boot.version}</version>
         </dependency>
 
-        <!-- La base des tests -->
+        <!-- base des tests -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
